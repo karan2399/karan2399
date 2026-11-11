@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan2399&label=Profile%20views&color=0e75b6&style=flat" alt="karan2399" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karan2399" alt="karan2399" /></a> </p>
+<p align="left"> <a href="https://github.com/karan2399"><img src="https://avatars.githubusercontent.com/u/21140150?v=4" alt="karan2399" /></a> </p>
 
 - 🔭 I’m currently working on **Foodology | React App from Namaste React**
 
